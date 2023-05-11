@@ -1,3 +1,3 @@
-# HarryLam14.github.io
-Personal Portfolio. <br>
+# HarryLam14 Resume
+Personal Resume website. <br>
 Made with Bootstrap and javascript to create a resume website
